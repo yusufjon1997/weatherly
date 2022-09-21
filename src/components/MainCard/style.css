@@ -1,0 +1,8 @@
+.main-card {
+    height: 300px;
+    width: 100%;
+    margin: 0 auto;
+    background: #DFF297;
+    margin-top: 30px;
+    border-radius: 10px;
+}
