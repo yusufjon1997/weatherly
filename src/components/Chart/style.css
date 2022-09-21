@@ -1,0 +1,13 @@
+
+
+.no-data {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.arrow_box {
+    border: 2px solid green;
+    border-radius: 10px;
+}
