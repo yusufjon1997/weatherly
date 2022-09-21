@@ -1,0 +1,16 @@
+.footer-card {
+    height: 150px;
+    margin: 0 auto;
+    background: #DFF297;
+    margin-top: 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    margin: 0;
+    padding-right: 10px;
+}
